@@ -52,7 +52,7 @@ if (minNum < 10) {
 function start() {
   clearInterval(INTERVAL)
   INTERVAL = setInterval(() => {
-    milliseconds()
+    miliseconds()
   }, 10)
 }
 
